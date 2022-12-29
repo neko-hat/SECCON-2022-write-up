@@ -15,6 +15,7 @@ Please refer to it. :)
 
 >    > Reversing     
 >    >    > babycmp 
+>    >    > eguite (soon)
     
        
 >    > MISC      
