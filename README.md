@@ -14,8 +14,8 @@ Please refer to it. :)
 > Prob List        
 
 >    > Reversing     
->    >    > babycmp 
->    >    > eguite (soon)
+>    >    > babycmp    
+>    >    > eguite (soon)    
     
        
 >    > MISC      
